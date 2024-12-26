@@ -1,1 +1,3 @@
-# uditanshupandey.github.io
+# Data Scientist
+
+### Education
