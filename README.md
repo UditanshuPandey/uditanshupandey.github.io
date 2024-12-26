@@ -39,3 +39,7 @@
 - **Tools:** Used TensorFlow, Keras, and Python for model development and training.
 
 ## Certificates
+1. [NIELIT Summer Training Completion Certificate](https://drive.google.com/file/d/1hePV0abxq420zPjgyaQcL2f4Hnjaa_On/view)
+2. [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc35c8da7a-592c-4af0-a4a7-250e5c914cc7/data-analysis-with-python-v7)
+3. [IIRS Outreach Programme on “AI/ML for Geodata Analysis” Completion Certificate](https://drive.google.com/file/d/1PgBD4kJLrKgeWVgXk6k1-v07tONKiB8C/view)
+4. [IBM SkillsBuild Summer Internship Program on Artificial Intelligence](https://drive.google.com/file/d/11kfzDmma1Vmkpy4U3Od8MlP8_F_co1nb/view)
