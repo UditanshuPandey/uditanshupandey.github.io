@@ -8,11 +8,11 @@
 
 ## Education
 - B.Tech (Artificial Intelligence and Machine Learning) | Guru Gobind Singh Indraprastha University (_2021 – 2025_)
-  --**CGPA - 9.103(Current)**             		
+  -- *CGPA - 9.103(Current)*             		
 - 12th (PCM and CS)	| Amity International School, New Delhi (CBSE) (_2020 – 2021_)
-  --**Percentage - 95.2%**            		
+  -- *Percentage - 95.2%*            		
 - 10th | St. Mary's School, Mainpuri, U.P (_2018 - 2019_)
-  --**Percentage - 88.3%**
+  -- *Percentage - 88.3%*
 
 ## Work Experience
 **Summer Training @ NIELIT(National Institute of Electronics & Information Technology. (_Sep 2023 – Oct 2023_)**
